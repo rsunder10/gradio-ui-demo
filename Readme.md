@@ -1,4 +1,4 @@
-# TEAMNAME AI Assistant
+# AI Assistant
 
 A modern chat interface built with Gradio that supports multimodal interactions including text, files, and streaming responses.
 
